@@ -8,4 +8,4 @@ Turtle Module: Utilizes the Python Turtle module to simulate graphical drawing o
 Star Positioning: Accurately positions the stars and connects them, replicating the iconic Little Dipper shape.
 
 
-<img src"videoWalkthroughforlildipper.gif"/>
+<img src="videoWalkthroughforlildipper.gif"/>
